@@ -1,7 +1,7 @@
 // FileName: Library.js 
 
 import React from "react"; 
-import LibrarySong from '../Component/Librarysong' 
+import LibrarySong from '../Component/LibrarySong' 
 
 const Library = ({ 
 	songs, 
